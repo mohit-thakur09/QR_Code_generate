@@ -1,0 +1,7 @@
+acb.png :www.acb.co
+amazon.png :https://amazon.com
+example.png :www.example.com
+mesho.png :https://mesho.com
+flipkart.png :https://www.flipkart.com
+youtube.png :http://www.youtube.com
+xyz.pdf :www.xyz.com

@@ -1,0 +1,21 @@
+{
+  "name": "qr-genrator",
+  "version": "1.0.0",
+  "description": "Genrate QR Code for Given any URL by User.(using tech.:Node.js modules:-inquirer,qr-image,chalk,path,fs,validator)",
+  "main": "qr-genrator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qr-code",
+    "node.js"
+  ],
+  "author": "Mohit Thakur",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.5",
+    "qr-image": "^3.2.0",
+    "validator": "^13.9.0"
+  }
+}
